@@ -364,6 +364,44 @@ const allJobs: Array<Job> = [
     createdOn: new Date("2022-03-26"),
     applyLink: "https://shardlabs.bamboohr.com/jobs/view.php?id=31",
   },
+  {
+    key: "13",
+    title: "Team lead full stack Developer",
+    companyId: 11,
+    tags: ["CSS", "HTML", "web3.js", "fullstack", "JavaScript"],
+    location: "Remote",
+    remote: true,
+    description:
+      "Some of the responsibilities on this project include: \n" +
+      "\n" +
+      "- Developing front end website architecture\n" +
+      "- Work closely with our business product owners to fully understand requirements, provide feedback, and request clarification as needed.\n" +
+      "- Designing user interactions on web pages\n" +
+      "- Developing back end website applications\n" +
+      " - Creating servers and databases\n" +
+      "- Ensuring responsiveness of applications\n " +
+      "- Leading a small team of developers to ensure a successful project execution\n" +
+      "- Make meetings with team members to ensure transparency and a successful work flow\n" +
+      "- Come up with new and exciting ideas on how to improve the product\n" +,
+    requirements:
+      "To qualify for the role, you should have:\n" +
+      "- 2+ years of experience as a team lead\n" +
+      "- Strong knowledge of application development using Node.js\n" +
+      "- Strong knowledge and hands-on with HTML, and CSS\n" +
+      "- Familiarity with JavaScript frameworks such as React, Vue, or Angular JS\n" +
+      "- Familiarity with database technology\n"
+      "- Excellent verbal communication skills\n" +
+      "- Ability to communicate your ideas\n" +
+      "\n" +
+      "Added bonus if you have:\n" +
+      "\n" +
+      "- Familiarity with Blockchain JavaScript libraries (web3.js or ether.js)\n" +
+      "- Experience with Typescript\n"+
+      "- Experience with creating SDK\n" +
+      "- Experience in Agile environments, especially in Scrum, and be able to communicate/implement this work method in the team\n",
+    createdOn: new Date("2022-05-03"),
+    applyLink: "https://shardlabs.bamboohr.com/jobs/view.php?id=33",
+  },
 ];
 
 export default allJobs;
